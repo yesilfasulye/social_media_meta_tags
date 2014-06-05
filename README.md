@@ -3,10 +3,9 @@ Social Media Meta Tags
 
 
 
-Twitter
-======================
+###Twitter###
 
-Summary Card
+#####Summary Card#####
 
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="@nytimes">
@@ -16,7 +15,7 @@ Summary Card
     <meta name="twitter:image" content="http://graphics8.nytimes.com/images/2012/02/19/us/19whitney-span/19whitney-span-article.jpg">
     
 
-Summary Large Card
+#####Summary Large Card#####
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@nytimes">
@@ -25,7 +24,7 @@ Summary Large Card
     <meta name="twitter:description" content="NEWARK - The guest list and parade of limousines with celebrities emerging from them seemed more suited to a red carpet event in Hollywood or New York than than a gritty stretch of Sussex Avenue near the former site of the James M. Baxter Terrace public housing project here.">
     <meta name="twitter:image:src" content="http://graphics8.nytimes.com/images/2012/02/19/us/19whitney-span/19whitney-span-articleLarge.jpg">
 
-Photo Card
+#####Photo Card#####
 
     <meta name="twitter:card" content="photo">
     <meta name="twitter:site" content="@examplephotosite">
@@ -35,7 +34,7 @@ Photo Card
     <meta name="twitter:image:width" content="610">
     <meta name="twitter:image:height" content="610">
 
-Gallery Card
+#####Gallery Card#####
 
     <meta name="twitter:card" content="gallery">
     <meta name="twitter:site" content="@flickr">
@@ -48,16 +47,15 @@ Gallery Card
     <meta name="twitter:image3:src" content="http://farm9.staticflickr.com/8188/8383177259_f927f13d81_b.jpg">
 
 
-Resource : <a href="https://dev.twitter.com/docs/cards" target="_blank">dev.twitter.com</a>
+**Resource : https://dev.twitter.com/docs/cards**
 
 
 
 
 
-Facebook Open Graph
-======================
+###Facebook Open Graph###
 
-Sample
+#####Sample#####
 
     <meta name="og:site_name" content="Burak Kaya">
     <meta name="og:locale" content="tr_TR">
@@ -67,7 +65,7 @@ Sample
     <meta name="og:description" content="Page Description - Lorem ipsum dolor sit amet, consectetur adipisicing elit...">
     <meta name="og:image" content="image.jpg"/>
 
-Optional Metadata
+#####Optional Metadata#####
 
     <!-- Image -->
     <meta property="og:image" content="http://example.com/ogp.jpg" />
@@ -91,19 +89,19 @@ Optional Metadata
     <meta property="og:audio:type" content="audio/mpeg" />
 
 
-Resource : <a href="http://ogp.me/" target="_blank">ogp.me</a>
+**Resource : http://ogp.me/**
 
 
 
-Google+
-======================
+###Google+###
+
 
     <meta itemprop="name" content="Bootstrap 3 Tips and Tricks You Might Not Know">
     <meta itemprop="description" content="Bootstrap 3 has a ton of features and helpers to speed up front-end development. Sometimes you need something and you end up writing your own custom CSS and JavaScript without even realizing that Bootstrap could have done it for you....">
     <meta itemprop="image" content="http://scotch.io/wp-content/uploads/2014/05/bs31.jpg">
 
 
-Resource : <a href="https://schema.org/" target="_blank">schema.org</a>
+**Resource : https://schema.org/**
 
 
 
